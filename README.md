@@ -57,22 +57,21 @@ Pout = Vout × Iout
 ---
 
 ## MATLAB/Simulink Model
-
-Insert the Simulink model screenshot below.
-
-![Simulink Model](Images/Simulink_Model.png)
+<img width="1329" height="703" alt="Screenshot (601)" src="https://github.com/user-attachments/assets/70d87b38-64cc-49f2-bf7a-b4c5e68bb1f5" />
 
 ---
 
 ## Output Voltage
 
-![Voltage](Images/Output_Voltage.png)
+<img width="1359" height="686" alt="Screenshot (599)" src="https://github.com/user-attachments/assets/19bb8dec-9545-49b7-8e11-e421f09ccf74" />
+
 
 ---
 
 ## Output Current
 
-![Current](Images/Output_Current.png)
+<img width="1338" height="624" alt="Screenshot (600)" src="https://github.com/user-attachments/assets/85092a00-1ed5-4fc5-889a-e83227b7397c" />
+
 
 ---
 
